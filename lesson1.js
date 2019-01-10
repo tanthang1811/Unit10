@@ -18,7 +18,7 @@
   console.log(p1.name);
   p1.changeName("Christian");
   console.log(p1.changeAge());
-  var people = new Array[p1,p2,Max];
+  var people = new Array[p1, p2, Max];
   people.forEach(element => {
     alert(element);
   });
