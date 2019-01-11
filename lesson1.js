@@ -22,5 +22,5 @@
   people.forEach(element => {
     alert(element);
   });
-
+  
 }
